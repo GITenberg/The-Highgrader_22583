@@ -5,7 +5,7 @@ contributor:
     agent_name: Hutchison, D. C.
     alias: Hutchison, Donald C.
     birthdate: 1869
-    deathdate: &id001 1954
+    deathdate: 1954
     gutenberg_agent_id: '25423'
     url: http://www.gutenberg.org/2009/agents/25423
 covers:
@@ -15,11 +15,13 @@ creator:
   author:
     agent_name: Raine, William MacLeod
     birthdate: 1871
-    deathdate: *id001
+    deathdate: 1954
     gutenberg_agent_id: '713'
     url: http://www.gutenberg.org/2009/agents/713
     wikipedia: http://en.wikipedia.org/wiki/William_MacLeod_Raine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22583#The-Highgrader
 gutenberg_issued: '2007-09-12'
 gutenberg_type: Text
 identifiers:
